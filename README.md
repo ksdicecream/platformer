@@ -1,6 +1,6 @@
 Platformer for Jumpstart
 
-Used WASD or arrow keps to reach the flag!
+Used WASD or arrow keys to reach the flag!
 
 Play it here: https://ksdicecream.itch.io/platformer
 
